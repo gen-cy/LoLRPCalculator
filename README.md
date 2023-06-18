@@ -50,3 +50,8 @@ The script uses a graph traversal algorithm to find the shortest path from the c
 - [ ] Optimize the RP path calculation algorithm for efficiency.
 - [ ] Support multiple regions and currencies for RP calculations. Currently only supports NA
 - [ ] Create a graphical user interface (GUI) for easier interaction. Could be turned into a website, but I would need to periodically update the json file. This would also not be custom for each user, for example, it will suggest to purchase something a user already owns.
+
+## Demo
+
+![image](https://github.com/gen-cy/LoLRPCalculator/assets/56899845/59a56d75-d7c3-4bdc-889a-a2958e0a1291)
+
