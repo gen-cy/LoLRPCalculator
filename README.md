@@ -55,3 +55,6 @@ The script uses a graph traversal algorithm to find the shortest path from the c
 
 ![image](https://github.com/gen-cy/LoLRPCalculator/assets/56899845/59a56d75-d7c3-4bdc-889a-a2958e0a1291)
 
+I showed that I have 1234 RP and I want to reach 0 RP.
+This tells me that I should purchase Gangplank the Betrayer for 944 RP, then purchase something worth 290 RP which could be a chroma(RECOLOR) or XP Boost.
+
