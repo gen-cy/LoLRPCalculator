@@ -13,13 +13,13 @@ This is an RP Calculator made by me for League of Legends. It helps you calculat
 
 ## Files
 
-- `raw_store.json`: Contains the raw data retrieved from the League of Legends client using `lcu_driver`. This file needs to be updated periodically as the LoL store changes.
+- `raw_store.json`: Contains the raw data retrieved from the League of Legends client using `lcu-driver`. This file needs to be updated periodically as the LoL store changes.
 - `parsed_store.json`: Contains the parsed data extracted from `raw_store.json`.
 
 ## Usage
 
 1. If you want to retrieve your current store, make sure you are logged into League of Legends. 
-2. Run `main.py` and choose whether to retrieve the current LoL store. This will be asked if you have `lcu_driver` installed.
+2. Run `main.py` and choose whether to retrieve the current LoL store. This will be asked if you have `lcu-driver` installed.
 3. Enter your current RP amount and the desired RP goal.
 4. Optionally, specify the number of times you want to purchase RP.
 5. The script will calculate the path to reach the goal and display the RP amounts and categories involved.
