@@ -43,6 +43,7 @@ The script uses a graph traversal algorithm to find the shortest path from the c
 ## TODO
 
 - [ ] Add the ability to avoid specific categories during the RP calculation (e.g. boosts).
+- [ ] Separate some of the code into files for improved legibility.
 - [ ] Add Blue Essence calculator.
 - [ ] Improve the display of sample purchases to make it easier to view and understand.
 - [ ] Implement a command-line interface (CLI) with user-friendly prompts and options.
