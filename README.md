@@ -8,7 +8,7 @@ This is an RP Calculator made by me for League of Legends. It helps you calculat
 ## Requirements
 
 - Python 3.x
-- `lcu-driver` library (Install with `pip install lcu-driver)
+- `lcu-driver` library (Install with `pip install lcu-driver`)
 - `rich` library (Install with `pip install rich`)
 
 ## Files
